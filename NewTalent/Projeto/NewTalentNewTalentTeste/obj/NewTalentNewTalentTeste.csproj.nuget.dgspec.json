@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\DIO\\7 - Trabalhando com desemvolvimento orientado a Testes\\4 - Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\\Projeto\\NewTalentNewTalentTeste\\NewTalentNewTalentTeste.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\DIO\\7 - Trabalhando com desemvolvimento orientado a Testes\\4 - Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\\Projeto\\NewTalentNewTalentTeste\\NewTalentNewTalentTeste.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\DIO\\7 - Trabalhando com desemvolvimento orientado a Testes\\4 - Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\\Projeto\\NewTalentNewTalentTeste\\NewTalentNewTalentTeste.csproj",
+        "projectName": "NewTalentNewTalentTeste",
+        "projectPath": "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\DIO\\7 - Trabalhando com desemvolvimento orientado a Testes\\4 - Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\\Projeto\\NewTalentNewTalentTeste\\NewTalentNewTalentTeste.csproj",
+        "packagesPath": "C:\\Users\\octav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\DIO\\7 - Trabalhando com desemvolvimento orientado a Testes\\4 - Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\\Projeto\\NewTalentNewTalentTeste\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\octav\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\DIO\\7 - Trabalhando com desemvolvimento orientado a Testes\\4 - Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\\Projeto\\NewTalent\\NewTalent.csproj": {
+                "projectPath": "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\DIO\\7 - Trabalhando com desemvolvimento orientado a Testes\\4 - Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\\Projeto\\NewTalent\\NewTalent.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\DIO\\7 - Trabalhando com desemvolvimento orientado a Testes\\4 - Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\\Projeto\\NewTalent\\NewTalent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\DIO\\7 - Trabalhando com desemvolvimento orientado a Testes\\4 - Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\\Projeto\\NewTalent\\NewTalent.csproj",
+        "projectName": "NewTalent",
+        "projectPath": "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\DIO\\7 - Trabalhando com desemvolvimento orientado a Testes\\4 - Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\\Projeto\\NewTalent\\NewTalent.csproj",
+        "packagesPath": "C:\\Users\\octav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\DIO\\7 - Trabalhando com desemvolvimento orientado a Testes\\4 - Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\\Projeto\\NewTalent\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\octav\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

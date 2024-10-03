@@ -1,0 +1,68 @@
+Prof: Maouro Junior
+
+-Apresentação:
+	TDD com XUnit;
+	
+-Introdução ao TDD:
+	TDD - Test Driven Development;
+	Premmissa - Regrar de negocios "primeiramente" nos testes.
+	
+-O que precisa para praticar:
+	Dotnet 3.1;
+
+-Refinamento Inicial:
+	Uma calculadota que contem soma, subtração, divisão e multiplcação e historico.
+	Regrar de negocio:
+	 -Numeros inteiros;
+	 -2 parametros por operação;
+	 -Sempre retornar os 3 ultimas operações.
+
+
+-Pratica 1: criando o projeto:
+	Criação da solução do projeto principal;
+	Criação do projeto de teste;
+	Comunicação entre projetos;
+	Nome do projeto: NewTalent
+
+-Criando projetos de teste e adicionando referencia de codigo:
+	O nome do Teste será TesteNewtalent
+
+-Pratica 2 : criando as funções da calculadora:
+
+	Criação dos testes falhos;
+	Aplicando as regrar de nogocio;
+	Boas praticas na criação do teste;
+	
+
+-Criando o primeiro teste de função - somar	 
+
+	Criar um obj do tipo calculadora.
+	
+-Criando as outras funções basicas da calculadora:
+
+	Os outros metodos seão iguais ao somar.
+
+-Desenvolvendo o historico de operações:
+
+
+-Pratica 3: Codificando as regras de negocio:
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
